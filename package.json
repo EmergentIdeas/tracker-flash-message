@@ -1,0 +1,25 @@
+{
+  "name": "tracker-flash-message",
+  "version": "1.0.0",
+  "description": "a flash message system built on tracker-cookie",
+  "main": "tracker-flash-message.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmergentIdeas/tracker-flash-message.git"
+  },
+  "keywords": [
+    "express",
+    "flash",
+    "message",
+    "cookie"
+  ],
+  "author": "Dan Kolz (Emergent Ideas)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmergentIdeas/tracker-flash-message/issues"
+  },
+  "homepage": "https://github.com/EmergentIdeas/tracker-flash-message#readme"
+}
