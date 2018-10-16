@@ -1,6 +1,6 @@
 {
   "name": "tracker-flash-message",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a flash message system built on tracker-cookie",
   "main": "tracker-flash-message.js",
   "scripts": {
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/EmergentIdeas/tracker-flash-message/issues"
   },
-  "homepage": "https://github.com/EmergentIdeas/tracker-flash-message#readme"
+  "homepage": "https://github.com/EmergentIdeas/tracker-flash-message#readme",
+  "dependencies": {
+    "filter-log": "0.0.5"
+  }
 }
